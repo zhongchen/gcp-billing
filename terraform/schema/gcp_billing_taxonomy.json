@@ -1,0 +1,58 @@
+[
+  {
+    "name": "google_service",
+    "type": "STRING"
+  },
+  {
+    "name": "service_description",
+    "type": "STRING"
+  },
+  {
+    "name": "sku_description",
+    "type": "STRING"
+  },
+  {
+    "name": "product_taxonomy",
+    "type": "STRING"
+  },
+  {
+    "name": "unit_description",
+    "type": "STRING"
+  },
+  {
+    "name": "price_reason",
+    "type": "STRING"
+  },
+  {
+    "name": "discount",
+    "type": "STRING"
+  },
+  {
+    "name": "service_id",
+    "type": "STRING"
+  },
+  {
+    "name": "sku_id",
+    "type": "STRING"
+  },
+  {
+    "name": "per_unit_quantity",
+    "type": "INTEGER"
+  },
+  {
+    "name": "tiered_usage",
+    "type": "INTEGER"
+  },
+  {
+    "name": "list_price_in_dollars",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "contract_price_in_dollars",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "effective_discount",
+    "type": "STRING"
+  }
+]
