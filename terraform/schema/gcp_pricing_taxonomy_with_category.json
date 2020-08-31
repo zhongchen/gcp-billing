@@ -28,6 +28,10 @@
     "type": "STRING"
   },
   {
+    "name": "subtype",
+    "type": "STRING"
+  },
+  {
     "name": "price_reason",
     "type": "STRING"
   },
